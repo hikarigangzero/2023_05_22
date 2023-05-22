@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void quickQurt(int arr[],int left,int right)
+void quickQurt(int arr[],int left,int right)//快速排序
 {
 	if(left>=right)return;
 	int i=left;
